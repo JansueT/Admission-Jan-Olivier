@@ -111,10 +111,7 @@ No installation needed
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/JansueT)
-- instagram: [@cansuetas](https://instagram.com/cansuetas)
-- twitter: [@cansu8tas](https://twitter.com/cansu8tas)
-- linkedIn: [@LinkedIn](https://www.linkedin.com/in/cansu-tas-467844251/)
+
 
 <!-- CONTRIBUTING -->
 
